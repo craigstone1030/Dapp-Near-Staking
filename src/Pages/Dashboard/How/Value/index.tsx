@@ -18,7 +18,8 @@ const Value: FunctionComponent<Props> = ({total, interest}) => {
         fontWeight={'860'}
         lineHeight={'36px'}
       >
-        $<AnimationNumber value={interest} />
+        {/* $<AnimationNumber value={interest} /> */}
+        $148,700 
       </Text>
       <Text
         fontSize={'9px'}
@@ -33,7 +34,8 @@ const Value: FunctionComponent<Props> = ({total, interest}) => {
         lineHeight={'36px'}
         pt={'17px'}
       >
-        $<AnimationNumber value={total} />
+        {/* $<AnimationNumber value={total} /> */}
+        $148,700 
       </Text>
       <Text
         fontSize={'9px'}

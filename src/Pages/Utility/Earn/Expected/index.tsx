@@ -23,7 +23,8 @@ const Expected: FunctionComponent<Props> = ({ amount }) => {
         fontWeight={'860'}
         lineHeight={'20px'}
       >
-        <AnimationNumber value={expected} />
+        {/* <AnimationNumber value={expected} /> */}
+        1,272,891(OUTPUT)
       </Text>
       <Divider orientation='horizontal' />
       <Text

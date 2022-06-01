@@ -5,12 +5,13 @@ import Warning from '../../../../assets/Warning.svg'
 
 const ProjectedPrice: FunctionComponent = (props) => {
   return (
-    <Flex w={'100%'} direction="column">
+    <Flex w={'100%'} color={'#CEBFBF'} direction="column">
       <HStack>
         <Text
           fontSize={'20px'}
           fontWeight={'860'}
           lineHeight={'24px'}
+          fontColor={'color: rgb(206, 191, 191)'}
         >
           PROJECTED NearT PRICE 
         </Text>

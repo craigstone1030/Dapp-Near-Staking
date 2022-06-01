@@ -62,7 +62,7 @@ console.log(res)
                 fontWeight='800'
                 lineHeight={'36px'}
               >
-                No transaction History
+                No transaction history
               </Text>
               <Text 
                 fontSize='13px'
