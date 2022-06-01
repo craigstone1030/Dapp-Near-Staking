@@ -15,7 +15,7 @@ const Tab: FunctionComponent<Props> = ({id, children}) => {
     dispatch({type: ActionKind.setTab, payload:id});
 
     if(id=='bridge')
-      window.open('https://rainbowbridge.app/transfer', '_blank')?.focus();
+      window.open('/', '_blank')?.focus();
     else
       navigate("/" + id);
   }

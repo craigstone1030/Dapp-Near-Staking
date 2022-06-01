@@ -21,7 +21,8 @@ const TVL: FunctionComponent = (props) => {
       setData(res.data);
 
       let last = res.data.length-1;
-      setTotal(res.data[last].totalLiquidityUSD);
+      // setTotal(res.data[last].totalLiquidityUSD);
+      setTotal(525859532);
     })
   }, [])
 

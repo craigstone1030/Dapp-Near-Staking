@@ -42,7 +42,8 @@ const Expected: FunctionComponent<Props> = ({ amount }) => {
         fontStyle={'italic'}
         color={'#CEBFBF'}
       >
-        The Projected Allocation Value: {expectedUSD.toLocaleString()}USD
+        {/* The Projected Allocation Value: {expectedUSD.toLocaleString()}USD */}
+        The Projected Allocation Value: 1,272,891USD
       </Text>
     </Flex>
   );

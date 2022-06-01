@@ -4,13 +4,13 @@ import { COINTYPE } from "./store";
 export let net = "testnet";
 
 export const TOKEN_ADDRESSES_TESTNET = [
-  "ft.alenzertest.testnet",
-  "ft.alenzertest.testnet",
-  "ft.alenzertest.testnet",
-  "ft.alenzertest.testnet",
-  "ft.alenzertest.testnet",
-  "ft.alenzertest.testnet",
-  "ft.alenzertest.testnet",
+  "test.testnet",
+  "test.testnet",
+  "test.testnet",
+  "test.testnet",
+  "test.testnet",
+  "test.testnet",
+  "test.testnet",
 ];
 export const TOKEN_ADDRESSES_MAINNET = [
   "ft.alenzertest.testnet",
