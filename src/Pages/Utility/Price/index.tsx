@@ -14,7 +14,7 @@ const Price: FunctionComponent = (props) => {
         fontWeight={'860'}
         lineHeight={'24px'}
       >
-        COMMUNITY FARMING EVENT 🚜
+        COMMUNITY FARMING EVENT
       </Text>
       <Stack
         direction={{ sm: 'column', md: 'column', lg: 'row' }}
