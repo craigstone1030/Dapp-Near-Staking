@@ -11,7 +11,6 @@ const ProjectedPrice: FunctionComponent = (props) => {
           fontSize={'20px'}
           fontWeight={'860'}
           lineHeight={'24px'}
-          fontColor={'color: rgb(206, 191, 191)'}
         >
           PROJECTED NearT PRICE 
         </Text>
